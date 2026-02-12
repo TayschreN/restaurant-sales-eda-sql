@@ -5,14 +5,14 @@ ALTER TABLE order_details
 CHANGE `ï»¿order_details_id` `order_details_id` INT;
 
 
--- 1️) Qual é o intervalo de datas da tabela?
+-- 1) Qual é o intervalo de datas da tabela?
 SELECT 
     MIN(order_date) AS start_date,
     MAX(order_date) AS end_date
 FROM order_details;
 
 
--- 2️) Quantos pedidos foram realizados nesse intervalo?
+-- 2) Quantos pedidos foram realizados nesse intervalo?
 SELECT 
     MIN(order_date) AS start_date, 
     COUNT(DISTINCT order_id) AS num_orders,
@@ -20,7 +20,7 @@ SELECT
 FROM order_details;
 
 
--- 3️) Quantos itens foram pedidos nesse período?
+-- 3) Quantos itens foram pedidos nesse período?
 SELECT COUNT(*) AS total_items
 FROM order_details;
 
