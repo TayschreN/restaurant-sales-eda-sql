@@ -1,7 +1,10 @@
-# Análise de Pedidos de Restaurante – Análise Exploratória (SQL)
+# Análise de Pedidos de Restaurante - Análise Exploratória (SQL)
 Este projeto realiza uma Análise Exploratória de Dados (EDA) utilizando SQL para investigar o comportamento de pedidos em um restaurante.
 
 O objetivo é extrair insights estratégicos a partir das tabelas `order_details` e `menu_items`.
+
+---
+![Query](query.jpg)
 
 ---
 
@@ -44,7 +47,7 @@ O objetivo é extrair insights estratégicos a partir das tabelas `order_details
 
 ---
 
-## Principais Insights Conquistados:
+## Principais Insights:
 
 - Identificação dos itens mais populares
 - Identificação de pedidos com alto volume
@@ -67,4 +70,5 @@ Demonstrar habilidades em:
 
 Gabriel França da Silva  
 Estudante de Análise de Dados  
+
 
