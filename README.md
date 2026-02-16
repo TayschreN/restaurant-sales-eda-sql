@@ -68,7 +68,16 @@ Demonstrar habilidades em:
 
 ---
 
+## Aprendizado:
+
+Este projeto foi desenvolvido acompanhando a aula disponível neste vídeo: https://www.youtube.com/watch?v=JaUKDbCXMX4.
+Ao longo do projeto, aprofundei meus conhecimentos em conceitos e técnicas importantes 
+Recomendo fortemente para quem deseja evoluir seus estudos em Data Analytics e SQL.
+
+---
+
 Gabriel França da Silva  
 Estudante de Análise de Dados  
+
 
 
